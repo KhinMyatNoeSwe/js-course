@@ -1,0 +1,18 @@
+{
+  "name": "js-course",
+  "version": "0.1.0",
+  "description": "javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KhinMyatNoeSwe/js-course.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Khin Myat Noe Swe",
+  "license": "MIT"
+}
